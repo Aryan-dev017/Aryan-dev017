@@ -1,16 +1,27 @@
-## Hi there 👋
+# Aryan Singh — Full-Stack & React Native Developer
 
-<!--
-**Aryan-dev017/Aryan-dev017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer from Noida, India. I build production-grade 
+mobile apps, web platforms, and AI-integrated systems independently.
 
-Here are some ideas to get you started:
+## Stack
+**Mobile:** React Native, Expo, EAS Build, TypeScript  
+**Web:** React 19, Next.js, Vite, Tailwind CSS, shadcn/ui  
+**Backend:** Node.js, Express, Supabase (PostgreSQL + RLS), Firebase  
+**AI:** Gemini API, OpenAI API, ChatGPT integrations, LLM pipelines  
+**Monitoring:** Sentry, PostHog, Vercel Analytics  
+**Payments:** RevenueCat, Google Play Billing  
+**Other:** MCP integrations, REST APIs, real-time systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Zora — React Native focus app with paywall, mascot, music library
+- DevConnect — Developer social platform with real-time messaging and AI
+- Fit-Pulse — AI fitness coach with fatigue tracking and Gemini meal plans
+- Modern-writer — Worldbuilding OS for fiction writers
+- Sahay — AI strategy engine with multi-source data pipelines
+
+## Currently
+Open to remote React Native or full-stack roles.  
+Building products at the intersection of mobile, web, and AI.
+
+## Contact
+Aryan.singho.oc@gmail.com
